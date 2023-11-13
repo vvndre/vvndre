@@ -38,6 +38,3 @@ Full Stack Developer | Passionate About Creating User-Friendly Applications
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=vvndre&theme=dark)](https://git.io/streak-stats)
