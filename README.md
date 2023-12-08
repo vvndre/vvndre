@@ -9,20 +9,20 @@
   
 ---
   
-### 🙋‍♂️ &nbsp; About Me :
+### 🙋‍♂️ About Me :
 
 Full Stack Developer | Passionate About Creating User-Friendly Applications
 
 ---
 
-### 👨‍💻 &nbsp; What I'm Currently Doing: 
+### 👨‍💻 What I'm Currently Doing : 
 
 - Leading on [Gamejot](https://gamejot-front-end.onrender.com/), The Ultimate Game Tracker Web App
 - Creating [vvndre.com](https://vvndre.com/), My Portfolio Progressive Web App.
 
 ---
 
-### :hammer_and_wrench: Tools and Languages :
+### 🛠️ Tools and Languages :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
