@@ -19,7 +19,7 @@ Full Stack Developer | Passionate About Creating User-Friendly Applications
 
 - Dev for [archive.pdf](https://beta.archivepdf.net/), Archive Fashion Scans, Articles & Content for the World.
 - Leading on [Gamejot](https://gamejot-front-end.onrender.com/), The Ultimate Game Tracker Web App
-- Blueprinting [vvndre.com](https://vvndre.com/), My Portfolio Progressive Website.
+- Creating [vvndre.com](https://vvndre.com/), My Portfolio Progressive Website.
 
 ---
 
