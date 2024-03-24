@@ -17,7 +17,7 @@ Full Stack Developer | Passionate About Creating User-Friendly Applications
 
 ### 👨‍💻 What I'm Currently Doing : 
 
-- Dev for [archive.pdf](https://beta.archivepdf.net/), Archive Fashion Scans, Articles & Content for the World.
+- Dev for [ARCHIVE.pdf](https://beta.archivepdf.net/), Archive Fashion Scans, Articles & Content for the World.
 - Leading on [Gamejot](https://gamejot-front-end.onrender.com/), The Ultimate Game Tracker Web App
 - Creating [vvndre.com](https://vvndre.com/), My Portfolio Progressive Website.
 
