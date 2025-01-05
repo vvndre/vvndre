@@ -11,15 +11,15 @@
   
 ### 🙋‍♂️ About Me :
 
-Full Stack Developer | Passionate About Creating User-Friendly Applications
+Houston-based tech wizard with a flair for full stack development! | Passionate about creating user-friendly applications
 
 ---
 
 ### 👨‍💻 What I'm Currently Doing : 
 
-- Dev for [ARCHIVE.pdf](https://beta.archivepdf.net/), Archive Fashion Scans, Articles & Content for the World.
-- Leading on [Gamejot](https://gamejot-front-end.onrender.com/), The Ultimate Game Tracker Web App
-- Updating [vvndre.com](https://vvndre.com/), My Portfolio Progressive Website.
+- Exploring Shopify development, creating custom themes and building a mock webstores.
+- Leading on [Gamejot](https://gamejot-front-end.onrender.com/), the ultimate game tracker web app!
+- Updating [vvndre.com](https://vvndre.com/), my portfolio website.
 
 ---
 
