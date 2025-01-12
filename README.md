@@ -18,8 +18,8 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
 ### 👨‍💻 What I'm Currently Doing : 
 
 - Exploring Shopify development, creating custom themes and building a mock webstores.
+- Working on a [Finance Tracker](https://github.com/vvndre/mern-financetracker).
 - Leading on [Gamejot](https://gamejot-front-end.onrender.com/), the ultimate game tracker web app!
-- Updating [vvndre.com](https://vvndre.com/), my portfolio website.
 
 ---
 
