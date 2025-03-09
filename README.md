@@ -17,9 +17,9 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
 
 ### 👨‍💻 What I'm Currently Doing : 
 
-- Exploring Shopify development, creating custom themes and building a mock webstores.
-- Working on a [Finance Tracker](https://github.com/vvndre/mern-financetracker).
-- Leading on [Gamejot](https://gamejot-front-end.onrender.com/), the ultimate game tracker web app!
+- Applying for front-end and full-stack development roles, exploring new opportunities!
+- Developing Fung.ai, an AI-powered resource for mold illness and toxicity support.
+- Exploring Shopify development, creating custom themes and building mock webstores.
 
 ---
 
