@@ -18,8 +18,8 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
 ### 👨‍💻 What I'm Currently Doing : 
 
 - Applying for front-end and full-stack development roles, exploring new opportunities!
+- Freelancing for small businesses, helping with website development, UX/UI design, and performance optimization.
 - Developing Fung.ai, an AI-powered resource for mold illness and toxicity support.
-- Exploring Shopify development, creating custom themes and building mock webstores.
 
 ---
 
@@ -30,6 +30,7 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
