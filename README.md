@@ -17,8 +17,8 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
 
 ### 👨‍💻 What I'm Currently Doing : 
 
-- Applying for front-end and full-stack development roles, exploring new opportunities!
-- Freelancing for small businesses, helping with website development, UX/UI design, and performance optimization.
+- Full Stack Developer at ICP DAS USA, building and maintaining eCommerce website.
+- Currently working through the Google UX Design Certificate to deepen my understanding of user-centered design..
 - Developing Fung.ai, an AI-powered resource for mold illness and toxicity support.
 
 ---
