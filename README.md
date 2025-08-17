@@ -17,7 +17,7 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
 
 ### 👨‍💻 What I'm Currently Doing : 
 
-- Full Stack Developer at ICP DAS USA, building and maintaining eCommerce website.
+- Full Stack Developer at ICP DAS USA, building and maintaining eCommerce websites.
 - Currently working through the Google UX Design Certificate to deepen my understanding of user-centered design.
 - Developing Fung.ai, an AI-powered resource for mold illness and toxicity support.
 
@@ -47,6 +47,6 @@ Houston-based tech wizard with a flair for full stack development! | Passionate 
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
 </div>
